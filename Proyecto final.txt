@@ -1,7 +1,5 @@
 <html>
-<head>
-<title>Proyecto final</title>
-</head>
+
 <body bgcolor="#A3B5FA">
 <table bgcolor="#4D71FC" border="2" cellpadding="3" cellspacing="10" border bgcolor="#000000">
 <caption align="top"><img src="D:\2IM1O\Computación II\tercer parcial\Clase HTML\Imagen\paginas.jpeg" width="80" height="120" align="left"><font color="#000000" size="5" aling=center><b>Proyecto Final</b></font></caption>
